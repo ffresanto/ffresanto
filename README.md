@@ -6,9 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:ffresanto@gmail.com)
 
 ---
-Hello, how are you? my name is Franccesco, and i am studying to become a developer, see some of my projects.
+Olá tudo bem? meu nome é Franccesco e estou estudando para me tornar um desenvolvedor, veja alguns dos meus projetos.
 
-- 🌎 I'm from São Paulo / Brazil
-- 💻 **Languages:** Java, VB, C#, and always wanting to learn even more!
-- 🔧 **Tools:** Visual Studio, IntelliJIDEA
-- 🎓 **Academic:** Studying Analysis and System Development
+- 🌎 Eu moro em São Paulo / Brasil
+- 💻 **Linguagens:** Java, VB, C#.
+- 🔧 **Ferramentas:** Visual Studio, IntelliJIDEA.
+- 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas.
