@@ -8,7 +8,7 @@
 ---
 Olá tudo bem? meu nome é Franccesco e atualmente estudo para me tornar um desenvolvedor, tenho alguns projetos que faço para me aperfeiçoar e aprender cada vez mais.
 
-- 🌎 Eu moro em São Paulo / Brasil
+- 🌎 São Paulo / Brasil
 - 💻 **Linguagens:** Java, VB, C#.
 - 🔧 **Ferramentas:** Visual Studio, IntelliJIDEA.
 - 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas.
