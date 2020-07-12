@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:ffresanto@gmail.com)
 
 ---
-Olá tudo bem? meu nome é Franccesco e estou estudando para me tornar um desenvolvedor, veja alguns dos meus projetos.
+Olá tudo bem? meu nome é Franccesco e atualmente estudo para me tornar um desenvolvedor, veja alguns dos meus projetos feitos.
 
 - 🌎 Eu moro em São Paulo / Brasil
 - 💻 **Linguagens:** Java, VB, C#.
