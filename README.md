@@ -11,4 +11,4 @@ Olá tudo bem? meu nome é Franccesco e atualmente estudo para me tornar um dese
 - 🌎 São Paulo / Brasil
 - 💻 **Linguagens:** Java, VB, C#.
 - 🔧 **Ferramentas:** Visual Studio, IntelliJIDEA.
-- 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas.
+- 🎓 **Formação:** Técnico em informática e cursando Análise e Desenvolvimento de Sistemas.
