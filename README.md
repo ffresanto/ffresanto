@@ -9,7 +9,7 @@
 Olá! Meu nome é Franccesco e atualmente sou um desenvolvedor .NET. Adoro simplificar as coisas, dividir problemas complexos em soluções simples e fáceis de entender. Em meu tempo livre, faço alguns projetos com tecnologias que estou aprendendo ou me aprimorando.
 
 - 🌎 São Paulo / Brasil
-- - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
 - 💻 **Linguagens:** C#, Java, VB.NET, JavaScript
 - 🔧 **Ferramentas e Tecnologias:** ASP.NET, SpringBoot, Design Patterns, React.JS, API RestFull, Postman, TypeScript, MySql, Oracle, SqlServer.  
 ####
@@ -26,6 +26,4 @@ Olá! Meu nome é Franccesco e atualmente sou um desenvolvedor .NET. Adoro simpl
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle"/></code>
 <img width="22" height="25" src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png" alt="SQL Server"/></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT">
-
-
 
