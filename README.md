@@ -1,6 +1,5 @@
 # :man_technologist: Franccesco Felipe Rodrigues
 
-[![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ffresanto)](https://github.com/ffresanto)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franccesco-felipe-rodrigues/)](https://www.linkedin.com/in/franccesco-felipe-rodrigues/)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511966059894&text=Olá!)](https://api.whatsapp.com/send?phone=5511966059894&text=Olá!)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit&link=mailto:ffresanto@gmail.com)](mailto:ffresanto@outlook.com)
