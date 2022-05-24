@@ -10,7 +10,7 @@ Olá! Meu nome é Franccesco e atualmente sou um desenvolvedor .NET. Adoro simpl
 - 🌎 São Paulo / Brasil
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
 - 💻 **Linguagens:** C#, Java, VB.NET, JavaScript
-- 🔧 **Ferramentas e Tecnologias:** ASP.NET, SpringBoot, Design Patterns, React.JS, API RestFull, Postman, TypeScript, MySql, Oracle, SqlServer.  
+- 🔧 **Ferramentas e Tecnologias:** ASP.NET, Node.Js, Design Patterns, React.JS, API RestFull, Postman, TypeScript, MySql, Oracle, SqlServer.  
 ####
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" /></code>
@@ -19,7 +19,6 @@ Olá! Meu nome é Franccesco e atualmente sou um desenvolvedor .NET. Adoro simpl
 <img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React JS" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="Swagger - Open API" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"/></code>
