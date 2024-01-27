@@ -1,14 +1,13 @@
 <h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Franccesco</h1>
-<h3 align="center">A full stack developer from Brazil</h3>
+<h3 align="center">A Software Developer from Brazil</h3>
 
+- 💻 Working at Softtek.
 
-- 💻 I’m currently working at Softtek
+- 🌱 Currently, I am learning software architecture practices.
 
-- 🌱 I’m currently learning React JS/React Native.
+- 🎓 I hold a degree in software engineering.
 
-- 🎓 I’m graduating from the postgraduate in software engineering.
-
-- 🔧 My development knowledge includes .NET, C#, ASP.NET Core, VB6, VBScript, JavaScript, TypeScript, React.Js, MySQL, Oracle PL/SQL, Design Patterns, GIT, and SVN.
+- 🔧 My development knowledge includes .NET, C#, ASP.NET Core, VB6, VBScript, JavaScript, TypeScript, React.Js, MySQL, Oracle PL/SQL, Design Patterns, DDD (Domain-Driven Design), Clean Architecture, CQRS (Command Query Responsibility Segregation), Mediator, and SOLID principles.
 
 ####
 
