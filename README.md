@@ -7,7 +7,7 @@
 
 - 🎓 I hold a degree in software engineering.
 
-- 🔧 My development knowledge includes .NET, C#, ASP.NET Core, VB6, VBScript, JavaScript, TypeScript, React.Js, MySQL, Oracle PL/SQL, Design Patterns, DDD (Domain-Driven Design), Clean Architecture, CQRS (Command Query Responsibility Segregation), Mediator, and SOLID principles.
+- 🔧 My development knowledge includes .NET, C#, ASP.NET Core, VB6, VBScript, JavaScript, TypeScript, React.Js, MySQL, Oracle PL/SQL, Design Patterns, DDD, Clean Architecture, CQRS, Mediator, and SOLID.
 
 ####
 
